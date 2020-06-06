@@ -1,0 +1,244 @@
+.navbar{
+
+    background-color:PINK !important;
+
+}
+.navbar-brand{
+    background: none;
+    width: 100px;
+    height: 50px;
+}
+
+
+.nav-link{
+
+    color:black !important;
+}
+
+.navbar-text{
+
+color:black !important;
+width: 70px;
+height: 50px;
+
+
+}
+
+/* .d-block w-100{
+width: 100opx !important;
+height: 40px !important;
+
+} */
+
+
+.carousel-item{
+
+height: 500px !important;
+
+}
+
+
+
+.d-block{
+
+
+    height: 500px;
+    width: 500px;
+}
+
+
+
+
+
+
+.fa-motorcycle,.fa-shopping-basket,.fa-mobile {
+
+
+    font-size: 45px !important;
+margin-right: 10px;
+}
+
+
+.box1,.box2,.box3{
+    display: flex;
+    width: 300px;
+    height:100px ;
+    /* border: 2px solid; */
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    font-style: bold;
+    justify-content: center;
+    align-items: center;
+  margin-top: 10px;
+}
+
+
+
+.boxes{
+
+margin-top: 30px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+
+.newarrival{
+
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+
+.card{
+    width: 200PXpx;
+    height: 200px;
+    margin-left: 20px;
+   
+}
+
+.CARD1{
+    margin-top: 30px;
+}
+
+
+.card-img-top{
+
+    width: 270px;
+    height: 200px;
+
+}
+.col-sm{
+
+margin-top: 20px;
+
+
+}
+
+
+
+.H1{
+
+
+margin-top: 10px !important;
+margin-bottom: 10PX;
+
+color: purple;
+
+
+
+
+}
+
+.two{
+
+margin-top: 200px;
+
+}
+
+
+.container{
+
+
+margin-top: 110px;
+justify-content: space-between;
+
+}
+
+.product{
+
+
+margin-top: 10px;
+
+
+
+
+
+}
+
+
+
+.OUR{
+
+
+    margin-top: 150px;
+  
+    
+}
+
+.ARRIVAL{
+
+
+
+
+
+}
+
+
+.seven{
+
+    margin-top: 200px;
+}
+
+
+    margin-top: 200px;
+
+
+.card-deck{
+
+justify-content: space-around;
+margin-top: 10px;
+width: 1000px;
+height: 1000px;
+/* margin-left: 10OPX;
+margin-right: 500px;
+} */
+
+ .sandals{
+
+width: 300px;
+height: 300px;
+ }
+ 
+ .card-title{
+
+margin-bottom:  5px;
+
+
+
+ }
+
+ /* .slideone{
+
+
+height: 400px;
+width: 400px;
+
+
+ } */
+ .one{
+
+background-color: black !important;
+
+ }
+
+
+
+ .tense{
+
+
+
+    margin-top: 100px !important;
+    margin-bottom: 20px;
+
+ }
+
+
+ .navbar-expand{
+
+
+    background-color: pink !important;
+ }
+
+ 
